@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Automne 2024\\piratage-securite\\piratage-labo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF31AD0-9839-41D3-9348-FC66F049B855}|piratage-labo1.vcxproj|D:\\Automne 2024\\piratage-securite\\piratage-labo1\\passoire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BF31AD0-9839-41D3-9348-FC66F049B855}|piratage-labo1.vcxproj|solutionrelative:passoire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passoire.cpp",
+              "DocumentMoniker": "D:\\Automne 2024\\piratage-securite\\piratage-labo1\\passoire.cpp",
+              "RelativeDocumentMoniker": "passoire.cpp",
+              "ToolTip": "D:\\Automne 2024\\piratage-securite\\piratage-labo1\\passoire.cpp",
+              "RelativeToolTip": "passoire.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T13:42:58.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
